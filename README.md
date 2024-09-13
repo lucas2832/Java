@@ -1,1 +1,1 @@
-Alguns projetos da faculdade
+Alguns projetos feitos na disciplina Programação II
